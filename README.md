@@ -1,0 +1,1 @@
+myapp.js will use fs.readFile to populate data stored within mydata.txt
